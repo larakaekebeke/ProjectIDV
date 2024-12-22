@@ -9,6 +9,7 @@
   import LineChartComponent from './Linechart.svelte'; // import the linechart (Louise)
 
   // hallo
+  //hallo2
   // Initialize DataContainers
   let polygons_EU = new DataContainer(EU_countries);
   const data_EU = new DataContainer(data_adm0);
